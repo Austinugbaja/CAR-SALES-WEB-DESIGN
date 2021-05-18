@@ -1,1 +1,1 @@
-# CAR-SALES-WEB-DESIGN
+# Smash template
